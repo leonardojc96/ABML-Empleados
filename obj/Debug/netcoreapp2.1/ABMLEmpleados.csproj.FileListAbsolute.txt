@@ -1,0 +1,11 @@
+C:\Users\leona\source\repos\ABMLEmpleados\bin\Debug\netcoreapp2.1\ABMLEmpleados.deps.json
+C:\Users\leona\source\repos\ABMLEmpleados\bin\Debug\netcoreapp2.1\ABMLEmpleados.runtimeconfig.json
+C:\Users\leona\source\repos\ABMLEmpleados\bin\Debug\netcoreapp2.1\ABMLEmpleados.runtimeconfig.dev.json
+C:\Users\leona\source\repos\ABMLEmpleados\bin\Debug\netcoreapp2.1\ABMLEmpleados.dll
+C:\Users\leona\source\repos\ABMLEmpleados\bin\Debug\netcoreapp2.1\ABMLEmpleados.pdb
+C:\Users\leona\source\repos\ABMLEmpleados\obj\Debug\netcoreapp2.1\ABMLEmpleados.csprojAssemblyReference.cache
+C:\Users\leona\source\repos\ABMLEmpleados\obj\Debug\netcoreapp2.1\ABMLEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ABMLEmpleados\obj\Debug\netcoreapp2.1\ABMLEmpleados.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ABMLEmpleados\obj\Debug\netcoreapp2.1\ABMLEmpleados.AssemblyInfo.cs
+C:\Users\leona\source\repos\ABMLEmpleados\obj\Debug\netcoreapp2.1\ABMLEmpleados.dll
+C:\Users\leona\source\repos\ABMLEmpleados\obj\Debug\netcoreapp2.1\ABMLEmpleados.pdb
